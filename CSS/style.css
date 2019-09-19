@@ -1,0 +1,37 @@
+body{
+    border: 10px solid black;
+    margin: 0;
+}
+div {
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+p{
+    margin: 0;
+}
+
+.red{
+    background: red;
+    border: 0px solid black;
+    box-sizing: border-box;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    align-content: center;
+}
+.yellow{
+    background: yellow;
+    border: 0px solid black;
+    box-sizing: border-box;
+    margin-bottom: 0px;
+    margin-left: 200px;
+}
+.green{
+    background:green;
+    border: 0px solid black;
+    box-sizing: border-box;
+    margin-bottom: 0px;
+    margin-left: 400px;
+}
